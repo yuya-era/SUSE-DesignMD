@@ -10,10 +10,10 @@ The file will be updated by Yuya Era, please email at yuya.era@suse.com or Slack
 5. The LLM will use the MD file as a baseline for your design
 
 //What is a brand.md file?//
-A brand.md file is a text document that defines a brand identity, strategy, voice, and approved guidelines in a way where both humans and LLMs can understand. This file will serve as a single source of truth.
+1. A brand.md file is a text document that defines a brand identity, strategy, voice, and approved guidelines in a way where both humans and LLMs can understand. This file will serve as a single source of truth.
 
 //Summary of what's inside//
-Most guidelines in brand.suse.com, including a basic tone of voice that we use. (excluded material: Geeko mascot usages, logos beyond the main logos, partner branding, illustrations, photography)
+1. Most guidelines in brand.suse.com, including a basic tone of voice that we use. (excluded material: Geeko mascot usages, logos beyond the main logos, partner branding, illustrations, photography)
 
 //Use cases//
 1. You want to check to make sure that your design is up to SUSE brand standards. Upload the md file and the design to the LLM and ask it to check against the MD file.
